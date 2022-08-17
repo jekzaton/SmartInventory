@@ -1,0 +1,7 @@
+ProductID,CategoryID,ProductName,UnitPrice,UnitInStock
+11,5,test product 1,20000,50
+7,5,MARSHALL ลำโพงเชื่อมต่อไร้สาย รุ่น Uxbridge Google,7990,15
+5,4,Star LabTop 13.3-inch Ultrabook ,25856,10
+4,4,Macbook Pro M1,45000,10
+3,3,Huawei Smartwatch WATCH GT3,12500,5
+2,2,iPad Pro 2021,18500,10
